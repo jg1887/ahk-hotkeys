@@ -3,9 +3,6 @@
 ;Hotstrings to make it faster to compile and test my project. Replace filenames/paths with any project you are currently working on.
 :*:c.compile::gcc temptable.c -o temptable.exe
 :*:exe.run::.\temptable.exe
-:*:cOD::cd OneDrive
-:*:cdesk::cd Desktop
-:*:cfolder::cd c
 
 ;Creates hotkey ctrl+alt+t that opens Command Prompt.
 ^!t:: 
