@@ -7,7 +7,6 @@
 :*:cdesk::cd Desktop
 :*:cfolder::cd c
 
-
 ;Creates hotkey ctrl+alt+t that opens Command Prompt.
 ^!t:: 
 Msgbox, Command Prompt opened.
